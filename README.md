@@ -18,7 +18,7 @@ _Get started using GitHub in less than an hour._
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Finish
+## Finish 
 
 _Congratulations, you've completed this course and joined the world of developers!_
 
